@@ -8,7 +8,7 @@
         </div>
         <div class="form-box">
             <el-form ref="form" :model="form" label-width="80px">
-                <el-form-item label="旧密码">
+                <el-form-item label="旧密码22">
                     <el-input type="password" v-model="form.mimal" placeholder="请输入旧密码"></el-input>
                 </el-form-item>
                 <el-form-item label="新密码">
